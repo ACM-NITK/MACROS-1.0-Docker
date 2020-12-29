@@ -1,7 +1,10 @@
 # MACROS-1.0-Docker
 
 #### `Systems`, `Docker`
-Mentor: [@namanmanish](https://github.com/namanmanish) (+91 9429504960)
+Mentors
+1. [@namanmanish](https://github.com/namanmanish) (+91 9429504960)
+2. [@narayanpai1](https://github.com/narayanpai1) (+91 9108074459)
+
 
 ### Problem Statement
 Containerised MVC web app with the help of docker
@@ -13,3 +16,7 @@ Containerised MVC web app with the help of docker
 - Run this two containers and create a network to facilitate their communication
 - For the mysql container use volumes so that you can retain the data
 - Create a  docker-compose.yml file which will spin up these two containers and also help with the configurations
+
+### Useful Resources
+1. [Docker Tutorial for Beginners](https://youtu.be/3c-iBn73dDE)
+2. [Overview of Docker Compose](https://docs.docker.com/compose/)
