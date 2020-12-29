@@ -20,3 +20,6 @@ Containerised MVC web app with the help of docker
 ### Useful Resources
 1. [Docker Tutorial for Beginners](https://youtu.be/3c-iBn73dDE)
 2. [Overview of Docker Compose](https://docs.docker.com/compose/)
+
+### Bonus
+Use bind-mounts to debug while the container is running. Point your base folder of your project from your host os to the base folder inside the container
